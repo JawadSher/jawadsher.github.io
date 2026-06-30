@@ -1038,7 +1038,7 @@ export function PortfolioApp() {
     async function loadGitHub() {
       try {
         const reposResponse = await fetch(
-          `https://api.github.com/users/${portfolio.githubUsername}/repos?sort=updated&per_page=100`,
+          `https://api.github.com/users/${portfolio.githubUsername}/repos?sort=updated&per_page=100`, { cache: "no-store"}
         );
 
         if (!reposResponse.ok) {
