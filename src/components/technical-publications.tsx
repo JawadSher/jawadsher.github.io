@@ -212,7 +212,7 @@ export function TechnicalPublications() {
     async function fetchPublications() {
       try {
         const feedUrl = `https://api.rss2json.com/v1/api.json?rss_url=https://medium.com/feed/@jawadsher`;
-        const res = await fetch(feedUrl);
+        const res = await fetch(feedUrl, { cache: 'no-store' });
         if (!res.ok) throw new Error('Failed to fetch feed');
 
         const data = await res.json();
