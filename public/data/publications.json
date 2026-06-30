@@ -1,0 +1,126 @@
+{
+  "generatedAt": "2026-06-30T11:07:00.189Z",
+  "source": "https://medium.com/feed/@jawadsher",
+  "count": 8,
+  "articles": [
+    {
+      "title": "Merge Sort Algorithm Explained: Recursive vs Iterative",
+      "pubDate": "Tue, 30 Jun 2026 10:19:11 GMT",
+      "link": "https://medium.com/@jawadsher/merge-sort-algorithm-explained-recursive-vs-iterative-3f31f146d30f",
+      "guid": "https://medium.com/p/3f31f146d30f",
+      "description": "Merge Sort is one of the most asked-about sorting algorithms in coding interviews — and one of the most useful in real systems too. It guarantees O(n log n) time no matter how messy the input is, and it’s the foundation for things like exte...",
+      "categories": [
+        "cpp-programming",
+        "merge-sort",
+        "data-structure-algorithm",
+        "programming",
+        "sorting-algorithms"
+      ],
+      "thumbnail": "https://cdn-images-1.medium.com/max/1024/1*XM0MY7NPwVjQQEGOfKt_-g.png"
+    },
+    {
+      "title": "Selection Sort: The Algorithm That Finds First, Swaps Once",
+      "pubDate": "Sat, 06 Jun 2026 18:43:10 GMT",
+      "link": "https://medium.com/@jawadsher/selection-sort-the-algorithm-that-finds-first-swaps-once-8dcb735384a2",
+      "guid": "https://medium.com/p/8dcb735384a2",
+      "description": "A complete guide to understanding Selection Sort — when to use it, when to avoid it, and why it still matters If you have ever watched someone pick out the smallest card from a shuffled deck, place it at the front, then repeat that process...",
+      "categories": [
+        "selection-sort-algorithm",
+        "algorithms",
+        "sorting-algorithms",
+        "dsa-problem"
+      ],
+      "thumbnail": "https://cdn-images-1.medium.com/max/1024/1*qUcbsnKMryD2q_4T6XLzBg.png"
+    },
+    {
+      "title": "Demystifying Binary Conversions in C++: From Basic Math to Bitwise Magic",
+      "pubDate": "Fri, 29 May 2026 10:15:02 GMT",
+      "link": "https://medium.com/@jawadsher/demystifying-binary-conversions-in-c-from-basic-math-to-bitwise-magic-25201d66b419",
+      "guid": "https://medium.com/p/25201d66b419",
+      "description": "Computers are fundamentally simple creatures. At their core, they don’t understand the number 10, your name, or complex software algorithms. They only understand two states: on (1) and off (0) . As programmers, learning how to convert data...",
+      "categories": [
+        "binary-conversion",
+        "dsa-problem",
+        "binary",
+        "leetcode",
+        "decimal"
+      ],
+      "thumbnail": "https://cdn-images-1.medium.com/max/1024/1*G6mL3-VIE6PFPjQs_fh8KA.png"
+    },
+    {
+      "title": "The Gap That Breaks Everything (And How Semaphores Fix It)",
+      "pubDate": "Tue, 05 May 2026 07:04:22 GMT",
+      "link": "https://medium.com/@jawadsher/the-gap-that-breaks-everything-and-how-semaphores-fix-it-b42267dfa770",
+      "guid": "https://medium.com/p/b42267dfa770",
+      "description": "Ever wondered what happens when two processes fight over the same resource at the exact same time? In today topic, we discuss a subtle but dangerous flaw hiding inside every operating system — and how a clever little mechanism called a sema...",
+      "categories": [
+        "operating-systems",
+        "deadlock",
+        "race-condition",
+        "cpu-process",
+        "semaphore"
+      ],
+      "thumbnail": "https://cdn-images-1.medium.com/max/1024/1*rek8QtzuauCLFF-F2HzfzQ.png"
+    },
+    {
+      "title": "Operating System Process & Its Administration",
+      "pubDate": "Mon, 04 May 2026 05:59:42 GMT",
+      "link": "https://medium.com/@jawadsher/operating-system-process-its-administration-28fd487bb3ae",
+      "guid": "https://medium.com/p/28fd487bb3ae",
+      "description": "Today, we discuss how your computer executes multiple programs simultaneously. In the screenshot above, you can see two states of a program called Music. Now, let’s visualize how the Process state actually looks, the “snapshot” concept: And...",
+      "categories": [
+        "cpu",
+        "cpu-utilization",
+        "cpu-process",
+        "operating-systems",
+        "context-switching"
+      ],
+      "thumbnail": "https://cdn-images-1.medium.com/max/1024/1*T6qkCF2zV662EggzuZk4Ow.png"
+    },
+    {
+      "title": "Data Compression (Video & Audio)",
+      "pubDate": "Tue, 28 Apr 2026 06:35:33 GMT",
+      "link": "https://medium.com/@jawadsher/data-compression-video-audio-cb80ea087445",
+      "guid": "https://medium.com/p/cb80ea087445",
+      "description": "When we record a video or audio, the file size becomes very large. For example, a one-minute uncompressed video can be hundreds of megabytes. Storing and sending such large files is difficult. To solve this problem, data compression is used...",
+      "categories": [
+        "video-compression",
+        "audio-compression",
+        "data-compression",
+        "mpeg",
+        "ffmpeg"
+      ],
+      "thumbnail": "https://cdn-images-1.medium.com/max/1024/1*80w1-qPtvLqZg6EGxTmE4A.png"
+    },
+    {
+      "title": "Data Compression (Image)",
+      "pubDate": "Mon, 27 Apr 2026 07:11:18 GMT",
+      "link": "https://medium.com/@jawadsher/data-compression-image-0d3dd1f168b4",
+      "guid": "https://medium.com/p/0d3dd1f168b4",
+      "description": "Data compression is the process of reducing the size of a dataset to save storage space &amp; transmition time by removing redundancy or encoding information more efficiently. In image compression, some visual details or colors that are not...",
+      "categories": [
+        "compression",
+        "image",
+        "image-compression",
+        "data-compression",
+        "reduce-image-file-size"
+      ],
+      "thumbnail": "https://cdn-images-1.medium.com/max/1024/1*4Vo4g2vOA54NRmva2Ee1nQ.png"
+    },
+    {
+      "title": "Data Compression (Generic Techniques)",
+      "pubDate": "Sun, 26 Apr 2026 05:47:27 GMT",
+      "link": "https://medium.com/@jawadsher/data-compression-generic-techniques-50cfb1509725",
+      "guid": "https://medium.com/p/50cfb1509725",
+      "description": "Compression is the process of reducing the size of a large dataset or files to save storage space and speed up data transmission. It works by removing redundancy and representing data in a more efficient way without changing its meaning. Ty...",
+      "categories": [
+        "compression",
+        "encoding",
+        "software-engineering",
+        "data-loss-prevention",
+        "compression-techniques"
+      ],
+      "thumbnail": "https://cdn-images-1.medium.com/max/1024/1*tf39tG2AMRohIQ2D89bbFg.png"
+    }
+  ]
+}
