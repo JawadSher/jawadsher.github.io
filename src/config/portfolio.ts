@@ -9,7 +9,7 @@ export type SocialLink = {
     | 'youtube'
     | 'medium'
     | 'email'
-    | 'phone'
+    | 'whatsapp'
     | 'resume'
     | 'fiverr'
     | 'upwork';
@@ -105,10 +105,10 @@ export const portfolio = {
       kind: 'email',
     },
     {
-      label: 'Phone',
+      label: 'WhatsApp',
       value: '+923481916077',
-      href: 'tel:+923481916077',
-      kind: 'phone',
+      href: 'https://wa.me/923481916077',
+      kind: 'whatsapp',
     },
     {
       label: 'Resume',

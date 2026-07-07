@@ -14,7 +14,7 @@ const sectionLinks = [
 ];
 
 const footerSocials = portfolio.socials.filter((social) =>
-  ['github', 'linkedin', 'email', 'resume', 'fiverr', 'upwork'].includes(social.kind),
+  ['github', 'linkedin', 'email', 'resume', 'fiverr', 'upwork', 'whatsapp'].includes(social.kind),
 );
 
 // pure black & white — every icon shares the same invert-on-hover
@@ -26,6 +26,7 @@ const socialIconMap = {
   resume: 'fi-rr-document',
   fiverr: 'fiverr-svg',
   upwork: 'upwork-svg',
+  whatsapp: 'fi-brands-whatsapp',
 } as const;
 
 const emailSocial = portfolio.socials.find((social) => social.kind === 'email');

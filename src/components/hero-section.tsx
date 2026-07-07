@@ -201,7 +201,7 @@ export function HeroSection() {
     fiverr: 'fiverr-svg',
     upwork: 'upwork-svg',
     email: 'fi-rr-envelope',
-    phone: 'fi-rr-phone-call',
+    whatsapp: 'fi-brands-whatsapp',
     resume: 'fi-rr-document',
   } as const;
 
@@ -214,7 +214,7 @@ export function HeroSection() {
     fiverr: 'hero-social-fiverr',
     upwork: 'hero-social-upwork',
     email: 'hero-social-email',
-    phone: 'hero-social-phone',
+    whatsapp: 'hero-social-whatsapp',
     resume: 'hero-social-resume',
   } as const;
 
